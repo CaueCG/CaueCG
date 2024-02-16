@@ -1,5 +1,6 @@
 ## Caue Cornejain Gualberto - Full Stack Developer
 Trabalho principalmente com .NET Framework, .NET CORE, Visão Computacional, SQL, integrações com  Hardwares e servidores.
+
 BACK-END:
 REST API's, Microsserviços, High Performance, SOLID, Clean Architecture, Web Services, Oauth, Identity, JWT
 
