@@ -1,5 +1,5 @@
 ## Caue Cornejain Gualberto - Full Stack Developer
-Trabalho principalmente com .NET Framework, .NET CORE, Visão Computacional, SQL, integrações com  Hardwares e servidores.
+Trabalho principalmente com .NET Framework, .NET CORE, Visão Computacional, Cloud AWS, SQL, integrações com  Hardwares e servidores.
 
 BACK-END:
 REST API's, Microsserviços, High Performance, SOLID, Clean Architecture, Web Services, Oauth, Identity, JWT
@@ -15,3 +15,6 @@ Cameras IP, Radares, NVR, VMS (Digifort e Intelbras)
 
 PROTOCOLOS
 HTTPS, WebSockets, SOAP, SFTP, SMTP, RTSP, ONVIF
+
+AWS
+EC2, S3, Auto Scaling, ELB, Route 53, Lambda, SQS, SNS, CloudWatch, DynamoDB, RDS, entre outros...
